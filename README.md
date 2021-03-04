@@ -42,7 +42,7 @@ The OS image to use for preferences is also on the link below.
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab0 Documentation Link]()
+[Lab0 Documentation Link](https://drive.google.com/file/d/1wVn5F4VII52AuR7_dPml5srA5a7ZzTzh/view?usp=sharing)
 
 DKU OS Image Download Link [Link](https://drive.google.com/file/d/11vOOjmYY-kWOY2u1andpluxYBdSQT-EA/view?usp=sharing)
 
