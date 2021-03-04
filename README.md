@@ -12,6 +12,10 @@ Virtual Machine Platform: VirtualBox 6.1.18
 
 [VirtualBox Download Link](https://www.virtualbox.org/wiki/Downloads)
 
+Windows Subsystem for Linux Install Guide (WSL)
+
+[WSL Install Guide Link](https://docs.microsoft.com/ko-KR/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package)
+
 Operating System: Ubuntu 20.04
 
 This environment is based on VirtualBox 6.1.18
