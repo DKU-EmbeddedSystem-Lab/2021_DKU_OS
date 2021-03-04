@@ -24,7 +24,7 @@ If image execution is not possible, we recommend reinstalling VirtualBox 5.2 ver
 [Virtual Box 5.2 Link](https://www.virtualbox.org/wiki/Download_Old_Builds_5_2)
 
 ## Clone Git Repository
-git clone https://github.com/shinhojin/2021_DKU_OS.git
+git clone https://github.com/DKU-EmbeddedSystem-Lab/2021_DKU_OS.git
 
 If you get an error there are no commands, install git with following command :
 
