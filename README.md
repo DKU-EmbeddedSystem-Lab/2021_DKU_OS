@@ -58,7 +58,7 @@ make
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab1 Documentation Link]()
+[Lab1 Documentation Link](https://drive.google.com/file/d/1mYGDew24HVDfdBL1VkqQuCpRC9JRzaKU/view?usp=sharing)
 
 ## Lab2
 If you want to proceed to Lab2, go to command below :
