@@ -59,15 +59,7 @@ Documentation for conducting the assignment can be found at following link :
 ## Lab2
 If you want to proceed to Lab2, go to command below :
 
-cd lab1_sync
-
-make lab2_example
-
-./lab2_example –t 4 –i 1000000 –s o
-
-./lab2_example –t 4 –i 1000000 –s m
-
-The above command is an example.
+Will be update Soon
 
 See the documentation for details.
 
