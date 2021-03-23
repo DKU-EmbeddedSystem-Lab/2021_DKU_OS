@@ -42,7 +42,7 @@ The OS image to use for preferences is also on the link below.
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab0 Documentation Link](https://drive.google.com/file/d/11xK4F7bR6TyK34gRpZ9UQ1ylDWEQA6Px/view?usp=sharing)
+[Lab0 Documentation Link](https://drive.google.com/file/d/10FFkWXZnCZTb8Qs0jqQRQrgq2UN5of3H/view?usp=sharing)
 
 DKU OS Image Download Link [Link](https://drive.google.com/file/d/11vOOjmYY-kWOY2u1andpluxYBdSQT-EA/view?usp=sharing)
 
@@ -58,7 +58,7 @@ If you want to proceed to Lab1, go to command below :
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab1 Documentation Link](https://drive.google.com/file/d/10FFkWXZnCZTb8Qs0jqQRQrgq2UN5of3H/view?usp=sharing)
+[Lab1 Documentation Link](https://drive.google.com/file/d/11xK4F7bR6TyK34gRpZ9UQ1ylDWEQA6Px/view)
 
 ## Lab2
 If you want to proceed to Lab2, go to command below :
