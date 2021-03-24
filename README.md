@@ -44,9 +44,9 @@ Documentation for conducting the assignment can be found at following link :
 
 [Lab0 Documentation Link](https://drive.google.com/file/d/10FFkWXZnCZTb8Qs0jqQRQrgq2UN5of3H/view?usp=sharing)
 
-DKU OS Image Download Link [Link]()
+DKU OS Image Download Link [Link](https://drive.google.com/file/d/1RI9B_5tmvlTtv15TOlvlnBew2Fi4A7T2/view?usp=sharing)
 
-If you have an error, you must check VirtualBox version check(6.1.18). If not, you reinstall VirtualBox.
+# If you have an error, you must check VirtualBox version check(6.1.18). If not, you reinstall VirtualBox.
 
 
 ## Lab1
