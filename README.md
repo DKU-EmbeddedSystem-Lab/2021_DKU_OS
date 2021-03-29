@@ -69,13 +69,27 @@ Documentation for conducting the assignment can be found at following link :
 ## Lab2
 If you want to proceed to Lab2, go to command below :
 
-Will be update Soon
+    cd lab2_sync
+    
+    make all
+    
+    ./lab2_sync -c=100 -q=1
+
+Usage for lab2_sync
+
+    Usage for ./lab2_sync : 
+        -c: Total number of vehicles produced, must be bigger than 0 ( e.g. 100 )
+        -q: RoundRobin Time Quantum, must be bigger than 0 ( e.g. 1, 4 ) 
+
+    Example : 
+        #sudo ./lab2_sync -c=100 -q=1 
+        #sudo ./lab2_sync -c=10000 -q=4 
 
 See the documentation for details.
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab2 Documentation Link]()
+[Lab2 Documentation Link](https://drive.google.com/file/d/1gq-h-EdTCiDq_Fh94GjMPzbYOIcl8gDF/view?usp=sharing)
 
 ## Lab3
 
