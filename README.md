@@ -75,7 +75,7 @@ If you want to proceed to Lab2, go to command below :
     
     ./lab2_sync -c=100 -q=1
 
-Usage for lab2_sync
+Usage for lab2_sync :
 
     Usage for ./lab2_sync : 
         -c: Total number of vehicles produced, must be bigger than 0 ( e.g. 100 )
