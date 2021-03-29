@@ -42,9 +42,15 @@ The OS image to use for preferences is also on the link below.
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab0 Documentation Link](https://drive.google.com/file/d/1wVn5F4VII52AuR7_dPml5srA5a7ZzTzh/view?usp=sharing)
+[Lab0 Documentation Link](https://drive.google.com/file/d/10FFkWXZnCZTb8Qs0jqQRQrgq2UN5of3H/view?usp=sharing)
 
-DKU OS Image Download Link [Link](https://drive.google.com/file/d/11vOOjmYY-kWOY2u1andpluxYBdSQT-EA/view?usp=sharing)
+DKU OS Image Download Link [Link](https://drive.google.com/file/d/1RI9B_5tmvlTtv15TOlvlnBew2Fi4A7T2/view?usp=sharing)
+
+Root password : 1234
+
+### DKU OS Image rename : DKU_OS_2021 -> ubuntu 20.04
+
+### If you have an error, you must check VirtualBox version check(6.1.18). If not, you reinstall VirtualBox.
 
 
 ## Lab1
@@ -58,18 +64,32 @@ If you want to proceed to Lab1, go to command below :
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab1 Documentation Link](https://drive.google.com/file/d/1mYGDew24HVDfdBL1VkqQuCpRC9JRzaKU/view?usp=sharing)
+[Lab1 Documentation Link](https://drive.google.com/file/d/11xK4F7bR6TyK34gRpZ9UQ1ylDWEQA6Px/view)
 
 ## Lab2
 If you want to proceed to Lab2, go to command below :
 
-Will be update Soon
+    cd lab2_sync
+    
+    make all
+    
+    ./lab2_sync -c=100 -q=1
+
+Usage for lab2_sync :
+
+    Usage for ./lab2_sync : 
+        -c: Total number of vehicles produced, must be bigger than 0 ( e.g. 100 )
+        -q: RoundRobin Time Quantum, must be bigger than 0 ( e.g. 1, 4 ) 
+
+    Example : 
+        #sudo ./lab2_sync -c=100 -q=1 
+        #sudo ./lab2_sync -c=10000 -q=4 
 
 See the documentation for details.
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab2 Documentation Link]()
+[Lab2 Documentation Link](https://drive.google.com/file/d/1gq-h-EdTCiDq_Fh94GjMPzbYOIcl8gDF/view?usp=sharing)
 
 ## Lab3
 
