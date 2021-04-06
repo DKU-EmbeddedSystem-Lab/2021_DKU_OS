@@ -64,7 +64,7 @@ If you want to proceed to Lab1, go to command below :
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab1 Documentation Link](https://drive.google.com/file/d/11xK4F7bR6TyK34gRpZ9UQ1ylDWEQA6Px/view)
+[Lab1 Documentation Link](https://drive.google.com/file/d/1_wtAErIMjdbPpAmtBAIWO-M2-XK37YLg/view?usp=sharing)
 
 ## Lab2
 If you want to proceed to Lab2, go to command below :
