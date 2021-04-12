@@ -93,6 +93,10 @@ Documentation for conducting the assignment can be found at following link :
 
 ## Lab3
 
+### You must be use VirtualBox(Ubuntu Linux Env), not WSL!!
+
+VirtualBox image is upload at above.
+
 If you want for proceed to Lab3, go to command below :
 
     cd lab3_filesystem
