@@ -82,28 +82,6 @@ int main(int argc, char* argv[]) {
 	   * You may be need to use pthread_create function
 	*/
 	
-	printf("==== Vehicle Production Problem ====\n");
-	printf("(1) No Lock Experiment\n");
-	printf("Experiment Info\n");
-	printf("\tTotal Produce Number = \n");
-	printf("\tFinal Balance Value = \n");
-	printf("\tExecution time = \n");
-
-	printf("==== Vehicle Production Problem ====\n");
-    printf("(2) Coarse-grained Lock Experiment\n");
-    printf("Experiment Info\n");
-    printf("\tTotal Produce Number = \n");
-    printf("\tFinal Balance Value = \n");
-    printf("\tExecution time = \n");
-
-	printf("==== Vehicle Production Problem ====\n");
-    printf("(3) Fine-grained Lock Experiment\n");
-    printf("Experiment Info\n");
-    printf("\tTotal Produce Number = \n");
-    printf("\tFinal Balance Value = \n");
-    printf("\tExecution time = \n");
-
-
 	
 	return 0;
 }

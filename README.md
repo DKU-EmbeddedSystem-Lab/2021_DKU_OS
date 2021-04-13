@@ -64,7 +64,7 @@ If you want to proceed to Lab1, go to command below :
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab1 Documentation Link](https://drive.google.com/file/d/11xK4F7bR6TyK34gRpZ9UQ1ylDWEQA6Px/view)
+[Lab1 Documentation Link](https://drive.google.com/file/d/11xK4F7bR6TyK34gRpZ9UQ1ylDWEQA6Px/view?usp=sharing)
 
 ## Lab2
 If you want to proceed to Lab2, go to command below :
@@ -89,9 +89,13 @@ See the documentation for details.
 
 Documentation for conducting the assignment can be found at following link :
 
-[Lab2 Documentation Link](https://drive.google.com/file/d/1gq-h-EdTCiDq_Fh94GjMPzbYOIcl8gDF/view?usp=sharing)
+[Lab2 Documentation Link](https://drive.google.com/file/d/1_wtAErIMjdbPpAmtBAIWO-M2-XK37YLg/view?usp=sharing)
 
 ## Lab3
+
+### You must be use VirtualBox(Ubuntu Linux Env), not WSL!!
+
+VirtualBox image is upload at above.
 
 If you want for proceed to Lab3, go to command below :
 
