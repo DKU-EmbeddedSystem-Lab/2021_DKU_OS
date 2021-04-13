@@ -100,6 +100,8 @@ VirtualBox image is upload at above.
 If you want for proceed to Lab3, go to command below :
 
     cd lab3_filesystem
+    
+    sudo apt-get update
 
     make
 
