@@ -141,4 +141,4 @@ If you want to proceed to Lab3-Bounus, go to command below:
 
 See the documentation for details.
 
-[Lab3 Documentation Link]()
+[Lab3 Documentation Link](https://drive.google.com/file/d/1N67J-lPBTRDAqFP2I5PQJ9alGj5qWd6C/view?usp=sharing)
