@@ -115,7 +115,7 @@ If you want for proceed to Lab3, go to command below :
 
     ./create.sh
   
-    ./apt mnt/A/BC 13 A/BC-13        //A, B, C is your last 3 digit of you student ID : 32XXXABC
+    ./apd mnt/A/BC 13 A/BC-13        //A, B, C is your last 3 digit of you student ID : 32XXXABC
 
 Then you can proceed Lab3
 
