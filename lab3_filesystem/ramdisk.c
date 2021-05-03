@@ -93,8 +93,7 @@ int init_blk_device(void)
 
 	printk("Major num : %d\n", ret);
 	ext.major = ret;
-	ext.queue = blk_alloc_queue(GFP_KERNEL);
-	blk_queue_make_request(ext.queue, rd_make_rq);
+	ext.queue = blk_alloc_queue(rd_make_rq, GFP_KERNEL);
 	ext.disk = alloc_disk(16);
 	ext.disk->major = ext.major;
 	ext.disk->first_minor = 0;
