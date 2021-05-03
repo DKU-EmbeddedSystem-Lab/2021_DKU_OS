@@ -11,3 +11,4 @@ install:
 
 clean:
 	make -C $(KDIR) M=$(PWD) clean
+	rm apd
