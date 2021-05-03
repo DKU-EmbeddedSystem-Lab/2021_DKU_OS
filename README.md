@@ -135,9 +135,9 @@ If you want to proceed to Lab3-Bounus, go to command below:
   
     mkfs.ext2 /dev/ramdisk
   
-    mount -t os_ext /dev/ramdisk ../mnt
+    mount -t os_ext2 /dev/ramdisk ../mnt
   
-    dmesg | grep os_ext2
+    dmesg | grep [YOUR_NAME]
 
 See the documentation for details.
 
